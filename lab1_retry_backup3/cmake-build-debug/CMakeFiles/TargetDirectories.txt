@@ -1,0 +1,3 @@
+C:/Users/1/CLionProjects/lab1_retry_backup3/cmake-build-debug/CMakeFiles/lab1_retry.dir
+C:/Users/1/CLionProjects/lab1_retry_backup3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/1/CLionProjects/lab1_retry_backup3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
